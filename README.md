@@ -16,12 +16,12 @@ This project requires a basic understanding of JavaScript, Markdown, and React (
 - read the [Gitbook starter](https://github.com/hasura/gatsby-gitbook-starter) docs
   - [Gitbook-readme.md](https://github.com/airmencoders/Guides/blob/master/Gitbook-readme.md) in this project's root folder has the pertinent bits
 - clone this repo to your computer
-- use 'npm install' at the command line to install the dependencies
+- use `npm install` at the command line to install the dependencies
 - change out the AFOTEC svg for one of your own
 - to change and add content, follow the markdown and markdown folder conventions as seen in the folder called 'content_structure_example' 
   - the [index](https://github.com/airmencoders/Guides/blob/master/content/index.mdx) file at the root of the content folder is for your initial loading page
-- to see your site as you build it, run 'gatsby develop'
-- to optimize your code for deployment on a server, run 'gatsby build'
+- to see your site as you build it, run `gatsby develop`
+- to optimize your code for deployment on a server, run `gatsby build`
   - your code should land in a folder called 'public', and this will be the code you'll want to send to be served up on Platform One (not the code you use here in this repo to build it)
 
 ### How to Host on Platform One
