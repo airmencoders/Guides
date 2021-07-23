@@ -2,12 +2,12 @@
 
 This is a template that allows anyone with access to the P1 Static Sites IL-2 Repo (which is practically anyone) to create their own static documentation site.
 
-A working example from which this template derives is here: (AFOTEC OT Guide)[https://oteguide.il2.dso.mil/]
+A working example from which this template derives is here: [AFOTEC OT Guide](https://oteguide.il2.dso.mil/)
 
 The goal is to make it easy for your people to read relevant guidance for their jobs anywhere:  work, home, and on mobile.
 
 Stack:  JS, HTML, CSS.  A React project, it is totally front end/client side, with the exception of a few dependencies and python code for document prep.
-- More specifically, this project was made using (Gatsby)[https://www.gatsbyjs.com/] and the (Gatsby Gitbook Starter)[https://www.gatsbyjs.com/starters/hasura/gatsby-gitbook-starter]
+- More specifically, this project was made using [Gatsby](https://www.gatsbyjs.com/) and the [Gatsby Gitbook Starter](https://www.gatsbyjs.com/starters/hasura/gatsby-gitbook-starter)
 
 This project requires a basic understanding of JavaScript and React.  The rest is fairly simple:
 - read the Gatsby docs
