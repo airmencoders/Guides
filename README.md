@@ -13,6 +13,7 @@ JS, HTML, CSS.  A React project, it is totally front end/client side, with the e
 ## How to Use
 This project requires a basic understanding of JavaScript, Markdown, and React (if you want to make changes).
 - read the [Gatsby docs](https://www.gatsbyjs.com/docs)
+  - you need to install Gatsby.  It may be as simple as `npm install -g gatsby-cli` at the command line, but to be sure you should first [read the docs](https://www.gatsbyjs.com/docs/tutorial/)
 - read the [Gitbook starter](https://github.com/hasura/gatsby-gitbook-starter) docs
   - [Gitbook-readme.md](https://github.com/airmencoders/Guides/blob/master/Gitbook-readme.md) in this project's root folder has the pertinent bits
 - clone this repo to your computer
