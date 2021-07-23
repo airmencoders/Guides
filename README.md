@@ -12,6 +12,7 @@ Stack:  JS, HTML, CSS.  A React project, it is totally front end/client side, wi
 This project requires a basic understanding of JavaScript and React.  The rest is fairly simple:
 - read the Gatsby docs
 - read the Gitbook starter docs
+  - 'Gitbook-readme.md' in this project's root folder has the pertinent bits
 - use 'npm install' at the command line to install the dependencies after you've cloned the files onto your machine
 - change out the AFOTEC svg for one of your own
 - to change and add content, follow the markdown and markdown folder conventions as seen in the folder called 'content_structure_example'
