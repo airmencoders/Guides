@@ -1,0 +1,23 @@
+apiVersion: networking.istio.io/v1alpha3
+kind: VirtualService
+metadata:
+name: oteguide
+spec:
+hosts:
+    - "oteguide.t-rex.dsop.io"
+    - "oteguide.preprod.dsop.io"
+    - "oteguide.il2.dsop.io"
+    - "oteguide.af.mil"
+gateways:
+    - public-gateway.istio-system.svc.cluster.local
+http:
+    - match:
+        - uri:
+            prefix: /
+    rewrite:
+        uri: /oteguide/
+    route:
+        - destination:
+            host: nginx
+            port:
+            number: 80
